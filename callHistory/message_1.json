@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Foobar Fizbaz"
+    },
+    {
+      "name": "Chris Choy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Choy",
+      "timestamp_ms": 1609866391657,
+      "content": "yeah it was this one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Foobar Fizbaz",
+      "timestamp_ms": 1609826252869,
+      "content": "The video chat ended.",
+      "call_duration": 691,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Chris Choy",
+      "timestamp_ms": 1609825428620,
+      "content": "Foob missed your video chat.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Foobar Fizbaz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/foobarfizbaz_vccu5dbcjg"
+}
